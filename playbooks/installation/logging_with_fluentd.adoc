@@ -1,3 +1,5 @@
+---
+---
 = Using Fluentd to Centralize Container Logs
 
 In this guide, we will provide some updated instructions, as well as guidelines for getting this installation done in a disconnected environment.
